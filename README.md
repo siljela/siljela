@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 💁, I'm Silje</h1>
 <h3 align="center">A designer and frontend developer located in Oslo 🌲</h3>
 <img align="right" alt="Coding" width="300" src="https://i.giphy.com/media/oy83DwqHRcR1jJczV3/giphy.webp">
